@@ -69,7 +69,7 @@ export function AboutSection() {
           </div>
 
           {/* Stats Section */}
-          <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          {/*<div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div>
               <div className="text-4xl font-bold text-secondary mb-2">5+</div>
               <div className="text-muted-foreground">Years Experience</div>
@@ -86,7 +86,7 @@ export function AboutSection() {
               <div className="text-4xl font-bold text-secondary mb-2">99%</div>
               <div className="text-muted-foreground">Uptime Guarantee</div>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>

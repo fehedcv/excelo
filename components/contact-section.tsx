@@ -42,19 +42,19 @@ export function ContactSection() {
     {
       icon: Phone,
       title: "Phone",
-      details: "+1 (555) 123-4567",
-      link: "tel:+15551234567",
+      details: "+91 8289848173",
+      link: "tel:+918289848173",
     },
     {
       icon: Mail,
       title: "Email",
-      details: "hello@excelo.com",
-      link: "mailto:hello@excelo.com",
+      details: "excelo@gmail.com",
+      link: "mailto:excelo@gmail.com",
     },
     {
       icon: MapPin,
       title: "Address",
-      details: "123 Innovation Drive, Tech City, TC 12345",
+      details: "Seethi Sahib Memorial Polytechnic College, Kerala, India",
       link: "#",
     },
     {
@@ -229,7 +229,7 @@ export function ContactSection() {
               </Card>
 
               {/* Map Placeholder */}
-              <Card>
+              {/*<Card>
                 <CardContent className="p-0">
                   <div className="h-48 bg-gradient-to-br from-secondary/20 to-accent/20 rounded-lg flex items-center justify-center">
                     <div className="text-center">
@@ -239,7 +239,7 @@ export function ContactSection() {
                     </div>
                   </div>
                 </CardContent>
-              </Card>
+              </Card>*/}
             </div>
           </div>
         </div>

@@ -50,7 +50,7 @@ export function HeroSection() {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 animate-fade-in-up">
+          {/*<div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 animate-fade-in-up">
             <div className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-secondary mb-2">500+</div>
               <div className="text-muted-foreground">Businesses Transformed</div>
@@ -63,7 +63,7 @@ export function HeroSection() {
               <div className="text-3xl md:text-4xl font-bold text-secondary mb-2">$50M+</div>
               <div className="text-muted-foreground">Revenue Generated</div>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
 

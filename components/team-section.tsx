@@ -116,7 +116,7 @@ export function TeamSection() {
           </div>
 
           {/* Join Team CTA */}
-          <div className="mt-16 text-center">
+          {/*<div className="mt-16 text-center">
             <div className="bg-gradient-to-r from-secondary/10 to-accent/10 rounded-2xl p-8 md:p-12">
               <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Join Our Growing Team</h3>
               <p className="text-lg text-muted-foreground mb-6 max-w-2xl mx-auto text-pretty">
@@ -138,7 +138,7 @@ export function TeamSection() {
                 </a>
               </div>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>

@@ -48,14 +48,14 @@ export function ContactSection() {
     {
       icon: Mail,
       title: "Email",
-      details: "excelo@gmail.com",
-      link: "mailto:excelo@gmail.com",
+      details: "excelo4444@gmail.com",
+      link: "mailto:excelo4444@gmail.com",
     },
     {
       icon: MapPin,
       title: "Address",
       details: "Seethi Sahib Memorial Polytechnic College, Kerala, India",
-      link: "#",
+      link: "https://maps.app.goo.gl/vyLndLQMgmF8qgAQ6",
     },
     {
       icon: Clock,
@@ -66,10 +66,10 @@ export function ContactSection() {
   ]
 
   const socialLinks = [
-    { icon: Facebook, href: "#", label: "Facebook" },
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
-    { icon: Instagram, href: "#", label: "Instagram" },
+    { icon: Facebook, href: "https://www.facebook.com/share/1GshwMqCpE/", label: "Facebook" },
+    { icon: Twitter, href: "https://x.com/Excelo213310", label: "Twitter" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/excelo-4-6b4880384", label: "LinkedIn" },
+    { icon: Instagram, href: "https://www.instagram.com/excelo.cps?igsh=eXBtcGFkeXUyczIw", label: "Instagram" },
   ]
 
   return (
